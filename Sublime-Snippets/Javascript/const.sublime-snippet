@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+const { ${1:variable} } = ${2:value}
+]]></content>
+	<tabTrigger>const</tabTrigger>
+</snippet>
